@@ -15,3 +15,5 @@ git status ----> tells you what files have been changed or are new, and what cha
 git diff README.md ----> shows the differences between the current version of README.md and the last saved version.
 
 git add README.md ----> moves your changes to the staging area, where they’re prepared to be saved in your project history.
+
+The command `git commit -m "updated the README.md file"` saved your changes to `README.md` with the message "updated the README.md file," recording one file change with 16 additions and 1 deletion.
